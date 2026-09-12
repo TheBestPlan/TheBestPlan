@@ -8,7 +8,7 @@
 
 - [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=thebestplan) — Независимая игровая студия
 - [KILLINGFLOOR.NET (2015)](https://killingfloor.net/?utm_source=github&utm_medium=profile&utm_campaign=thebestplan) — Сообщество по игре Killing Floor
-- [Line-Strike (2013)](https://gitlab.com/TheBestPlan/line-strike) — Клиент-серверная модификация для игры Counter-Strike 1.6
+- [Line-Strike (2013)](https://github.com/TheBestPlan/line-strike) — Клиент-серверная модификация для игры Counter-Strike 1.6
 - Другие проекты и полезные ресурсы в репозиториях [GitHub](https://github.com/TheBestPlan?tab=repositories) и [GitLab](https://gitlab.com/users/TheBestPlan/projects)
 
 ## Поддержите меня

@@ -8,7 +8,7 @@ Welcome to my profile.
 
 - [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=thebestplan) — An independent game studio
 - [KILLINGFLOOR.NET (2015)](https://killingfloor.net/?utm_source=github&utm_medium=profile&utm_campaign=thebestplan) — Killing Floor Game Community
-- [Line-Strike (2013)](https://gitlab.com/TheBestPlan/line-strike) — Client-server modification for Counter-Strike 1.6 game
+- [Line-Strike (2013)](https://github.com/TheBestPlan/line-strike) — Client-server modification for Counter-Strike 1.6 game
 - Other projects and useful resources are on [GitHub](https://github.com/TheBestPlan?tab=repositories) and [GitLab](https://gitlab.com/users/TheBestPlan/projects)
 
 ## Support Me
